@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: movie-store
+
+server:
+  port: 7777
+
+user:
+  role: QA_movie June 2022
